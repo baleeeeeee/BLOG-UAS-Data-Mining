@@ -173,4 +173,10 @@ ydata.to_excel('dataactualpred.xlsx', index=False)
 ### ✅ Fungsi:
 - Membuat file Excel hasil_prediksi.xlsx berisi perbandingan label asli vs hasil prediksi.
 
+---
 
+## 📽️ Demo
+
+Tonton project ini di YouTube: [Klik di sini](https://youtu.be/NdhIyvm_D9c?si=VjX99_dK1KfRfU1X)
+
+---
